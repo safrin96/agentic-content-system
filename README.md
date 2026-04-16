@@ -25,7 +25,7 @@ an in-house Senior Content Strategist and Editor for your brand.
 
 **What you get out of the box:**
 - 1 master `CLAUDE.md` with a Senior Content Strategist role definition
-- 14 specialized skills (research, writing, hooks, thumbnails, fact-check, and more)
+- 16 specialized skills (research, writing, hooks, thumbnails, fact-check, and more)
 - 5 reference files (pillars, voice rules, platform specs, brand guidelines, examples)
 - A Knowledge Vault folder structure for posts, photos, PDFs, research
 - A content deduplicator that reads your full archive before writing anything new
@@ -91,9 +91,10 @@ your-content-system/
 ├── .claude/
 │   ├── commands/
 │   │   └── run-content-engine.md     ← Biweekly engine orchestrator
-│   └── skills/                       ← 14 specialized skill files
+│   └── skills/                       ← 16 specialized skill files
 │       ├── content-research/
 │       ├── content-deduplicator/
+│       ├── instagram-competitot-research/
 │       ├── presentation-content/
 │       ├── linkedin-article-writer/
 │       ├── instagram-reel-script/
@@ -106,6 +107,7 @@ your-content-system/
 │       ├── content-project-manager/
 │       ├── brand-voice-manager/
 │       └── content-reviewer/
+│       └── visual-competitor-analysis/
 ├── scripts/
 │   ├── run-biweekly.sh               ← The engine (biweekly gate built in)
 │   ├── setup-scheduler.sh            ← Installs the cron job
