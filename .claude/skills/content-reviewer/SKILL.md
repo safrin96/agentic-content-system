@@ -82,9 +82,9 @@ If any of these are missing: **flag it. Do not proceed.**
 ### Reputation Check (fast gut test)
 Answer these four questions:
 1. Would {{YOUR_NAME}} be proud if a Senior TPM recruiter read this?
-2. Is there anything in here she'd want to walk back tomorrow?
-3. Does this look like it was written by the same person who wrote her best posts?
-4. Is there any claim that could embarrass her if it was wrong?
+2. Is there anything in here they'd want to walk back tomorrow?
+3. Does this look like it was written by the same person who wrote their best posts?
+4. Is there any claim that could embarrass their if it was wrong?
 
 If any answer is NO — flag it. Explain specifically what the concern is.
 

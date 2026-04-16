@@ -138,7 +138,7 @@ RECOMMENDATION 2 (Alternative):
 ...
 
 RECOMMENDATION 3 (If personal photo preferred):
-Suggestion: [what photo {{YOUR_NAME}} could take herself that would
+Suggestion: [what photo {{YOUR_NAME}} could take themself that would
 work better than stock for this content]
 
 PERSONAL PHOTO FIRST NOTE:

@@ -120,22 +120,22 @@ PRODUCTION NOTES:
 
 ---
 
-## THUMBNAIL TEXT EXAMPLES
+## THUMBNAIL TEXT EXAMPLES (by shape, not by topic)
 
-**Pillar 1 (Technical):**
-- "Your Power BI is lying to you"
-- "This DAX mistake costs hours"
-- "Stop using calculated columns"
+**Technical / craft pillar:**
+- "Your [tool] is lying to you"
+- "This [concept] mistake costs hours"
+- "Stop using [common practice]"
 
-**Pillar 2 (Career/Industry):**
-- "300 TPM jobs. One pattern."
+**Career / industry analysis pillar:**
+- "[N] [data points]. One pattern."
 - "This skill is disappearing fast"
-- "Why 'data-driven' is a lie"
+- "Why '[common phrase]' is a lie"
 
-**Pillar 3 (Personal/Immigrant):**
-- "What proving English costs"
+**Personal / lived-experience pillar:**
+- "What [specific thing] costs"
 - "Nobody warned me about this"
-- "The invisible career tax"
+- "The invisible [domain] tax"
 
 **Pillar 4 (AI Tools):**
 - "I tested this for 6 months"

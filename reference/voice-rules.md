@@ -9,7 +9,7 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 
 ---
 
-## WHAT SUMAIYA'S VOICE SOUNDS LIKE
+## WHAT {{YOUR_NAME}}'S VOICE SOUNDS LIKE
 
 **Rhythm:** Short sentences that land. Then the longer one that adds context. Then back to short.
 
@@ -17,13 +17,13 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 
 **Perspective:** First-person, specific. Not "many professionals struggle with X" — "I spent three months getting this wrong before I figured out why."
 
-**Authority style:** Earned, not claimed. She never says "as an expert." She shows you the work and lets you conclude she knows what she's talking about.
+**Authority style:** Earned, not claimed. They never say "as an expert." They show you the work and let you conclude they know what they're talking about.
 
-**Emotional register:** She goes to the real feeling — the frustration, the cost, the pride — without over-explaining it. One line of vulnerability, then move forward.
+**Emotional register:** They go to the real feeling — the frustration, the cost, the pride — without over-explaining it. One line of vulnerability, then move forward.
 
 ---
 
-## SENTENCE PATTERNS THAT WORK FOR HER
+## SENTENCE PATTERNS THAT WORK
 
 **The setup-reveal:**
 > The report took 4 hours to build every month.
@@ -39,10 +39,10 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 > It's the reason my last project didn't fail.
 
 **The specific detail anchor:**
-> 500 million rows. 14 departments. One model.
-> This is what Kimball methodology actually looks like in production.
+> [scale number]. [scope number]. [outcome].
+> This is what [your methodology or framework] actually looks like in production.
 
-**The arrow list (her signature format):**
+**The arrow list (their signature format):**
 > What I learned:
 > → [insight 1]
 > → [insight 2]
@@ -64,7 +64,7 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 - move the needle
 - circle back
 - take it to the next level
-- thought leadership (ironic — never describe her own content this way)
+- thought leadership (ironic — never describe their own content this way)
 - synergy / synergies
 - robust (unless quoting a spec)
 - seamless (unless literally describing a seam)
@@ -90,7 +90,7 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 - **"In the age of AI..."** or **"As we navigate..."** openers — delete immediately
 - **"As a [title/identity]..."** openers — never claim identity before earning the read
 - **Double CTAs** — pick one. Not "comment below and share with someone who needs this."
-- **Performative humility** — "I'm no expert, but..." — she IS an expert. Write like it.
+- **Performative humility** — "I'm no expert, but..." — they ARE an expert. Write like it.
 - **Vague outcome statements** — "it made a big impact" → say what the impact was
 - **Passive voice for achievements** — "the project was completed" → "I delivered the project"
 
@@ -102,7 +102,7 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 - Max 3 emoji per post
 - Use at the start of bullet/arrow lines or at the end of a section — not mid-sentence
 - Functional, not decorative — they mark structure, not enthusiasm
-- Avoid: 🚀 💡 🔥 (overused by every LinkedIn influencer — she's not that)
+- Avoid: 🚀 💡 🔥 (overused by every LinkedIn influencer — they're not that)
 - Prefer: ↓ → ✦ 📌 (structural) or ones that are genuinely contextual
 
 **Instagram:**
@@ -112,7 +112,7 @@ Direct. Personal. Grounded in real work. Never performing expertise — demonstr
 
 ---
 
-## CTA PATTERNS THAT MATCH HER VOICE
+## CTA PATTERNS THAT MATCH THE VOICE
 
 **Good:**
 - "What's been your experience with this?"
@@ -137,6 +137,6 @@ For any post drawing on personal experience, it must pass this test:
 1. **Is there a specific moment?** Not "throughout my career" — give me the Tuesday afternoon when something changed.
 2. **Is there a cost or a risk?** Something was at stake. Name it.
 3. **Is there a turn?** The moment it shifted, or the lesson that crystallized.
-4. **Does it land on something true?** Not a platitude. A real, specific insight she actually believes.
+4. **Does it land on something true?** Not a platitude. A real, specific insight they actually believes.
 
 If any of these are missing, the personal story is not ready to publish.

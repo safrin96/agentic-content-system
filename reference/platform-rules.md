@@ -14,17 +14,18 @@
 - **Links:** LinkedIn suppresses posts with links in the body. If linking, put it in the first comment and reference it in the post ("link in first comment").
 
 ### What Performs for {{YOUR_NAME}} Specifically
-Based on her content history:
-- **Personal story + photo** → highest reach, highest shares
-- **Framework carousel (PDF/slide deck)** → highest saves, strong comments
+*(Update this section once you have at least 30 days of content data.
+Default starting assumptions for most creators:)*
+- **Personal story + photo** → typically highest reach, highest shares
+- **Framework carousel (PDF/slide deck)** → typically highest saves
 - **"What I learned from X" posts** → strong engagement from practitioners
 - **Text-only posts** → works for punchy, opinionated takes — no fluff
 
 ### Hook Formulas That Work
-- The bold claim: "Most AI adoption programs fail for the same reason."
-- The specific number: "I've reviewed 47 Power BI dashboards in the last year. Here's the pattern."
+- The bold claim: "Most [thing in your niche] fail for the same reason."
+- The specific number: "I've reviewed [N] [artifacts] in the last [timeframe]. Here's the pattern."
 - The honest admission: "I got this completely wrong for two years."
-- The gap/mystery: "The thing no one tells you about being a TPM at a university."
+- The gap/mystery: "The thing no one tells you about [specific situation from your experience]."
 - The reframe: "Everyone calls it a soft skill. It saved my last project."
 
 ### What Kills LinkedIn Posts
@@ -57,7 +58,7 @@ Based on her content history:
 - **Length:** 55–65 seconds (not 30, not 90 — the 60-second window performs best for educational content)
 - **Hook (0–3 seconds):** A visual + verbal hook. One sentence. Bold claim, question, or surprising stat.
 - **Structure:** 3 points max. One per 15 seconds. If you have more than 3 points, it's two reels.
-- **Delivery:** Write for how she speaks, not how she writes. Contractions. Short sentences. Pauses.
+- **Delivery:** Write for how they speak, not how they write. Contractions. Short sentences. Pauses.
 - **CTA (last 5 seconds):** One action. "Save this." "Tell me in the comments." "Follow for [specific value prop]."
 - **On-screen text:** Key phrases only — not a transcript. 5–7 words max per text element.
 

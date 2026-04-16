@@ -5,9 +5,16 @@
 
 ## BRAND POSITIONING STATEMENT
 
-{{YOUR_NAME}} makes enterprise AI feel real and accessible — for the practitioners doing the work, for the professionals navigating a system not built for them, and for anyone trying to figure out where they actually fit in the AI era.
+{{YOUR_NAME}} {{BRAND_POSITIONING_STATEMENT}}.
 
-She is not the hype voice. She is the person who has already tried it, broken something, fixed it, and is now telling you what she actually learned.
+*(One sentence. What do you make easier, clearer, or more accessible
+for your audience? Who is it for? Example shape: "makes [your domain]
+feel real and accessible — for [audience 1], for [audience 2], and for
+anyone trying to figure out [their core question].")*
+
+They are not the hype voice. They are the person who has already tried
+it, broken something, fixed it, and is now telling you what they
+actually learned.
 
 ---
 
@@ -20,7 +27,7 @@ She is not the hype voice. She is the person who has already tried it, broken so
 4. **Sharp** — precise language, strong takes, no wasted words
 5. **Accessible** — complex ideas made simple without being dumbed down
 
-### What She Is NOT
+### What They Are NOT
 - Inspirational-quote poster
 - Hype machine
 - Corporate thought leader (ironic, hollow)
@@ -38,8 +45,8 @@ She is not the hype voice. She is the person who has already tried it, broken so
 
 ### Visual Tone
 - **Clean, not corporate.** Think editorial tech publication, not enterprise software marketing.
-- **Text-forward.** Her carousels work because the words are the design.
-- **Personal photos outperform graphics.** On LinkedIn especially — a photo of her with a post performs better than a polished graphic.
+- **Text-forward.** Their carousels work because the words are the design.
+- **Personal photos outperform graphics.** On LinkedIn especially — a photo of the creator with a post performs better than a polished graphic.
 
 ### Typography Direction
 - **Headlines:** Bold, large, high contrast — readable at a glance
@@ -78,7 +85,7 @@ She is not the hype voice. She is the person who has already tried it, broken so
 ### For Reels (First Frame):
 - One bold text element: ≤ 6 words
 - High contrast — readable as a thumbnail at 100px wide
-- Her face or a strong visual should appear — human thumbnails outperform graphics
+- Their face or a strong visual should appear — human thumbnails outperform graphics
 - The text should create a gap (question, controversy, surprising claim) — not summarize
 
 ### For Carousel Cover (Slide 1):
@@ -88,27 +95,38 @@ She is not the hype voice. She is the person who has already tried it, broken so
 - No generic stock photos
 
 ### For LinkedIn Profile / Featured Section:
-- Professional but warm — not a headshot from 2015
-- Shows her as someone who does the work (at a desk, in a presentation, at a conference)
+- Professional but warm — not an outdated corporate headshot
+- Shows them as someone who does the work (at a desk, in a presentation, at a conference)
 
 ---
 
 ## VOICE SAMPLES — REFERENCE
 
-*These are examples of her voice that have performed well. Reference when calibrating tone.*
+*These are examples of their voice that have performed well. Reference when calibrating tone.*
 
 **High-performing pattern (personal + specific):**
-> The financial burden of proving my English was good enough cost me $300 and 6 months of anxiety.
-> 
-> It wasn't a test of English. It was a test of whether I had $300 and knew the system.
-> 
-> This is why {{TARGET_COMPANY}}'s mission is personal to me.
+> [The specific cost — money, time, or energy — of a system/rule/barrier
+> you had to navigate that others didn't.]
+>
+> It wasn't a test of [the thing it was labeled as]. It was a test of
+> whether [the hidden, real requirement].
+>
+> This is why {{TARGET_COMPANY_OR_MISSION}} is personal to me.
+
+*(Example shape: name a concrete number or cost upfront, reframe what
+the system was actually testing, land on a specific tie-in to your
+audience or target. Replace with your real story during personalize.sh —
+the generic version won't land, the specific version will.)*
 
 **High-performing pattern (work + insight):**
-> 14 departments. 500 million rows. One semantic model.
-> 
-> When people ask me what SSAS Tabular does — that's my answer.
-> It's not a database. It's the thing that makes your numbers mean the same thing to everyone in the building.
+> [scale number]. [scope number]. [outcome].
+>
+> When people ask me what {{YOUR_TOOL_OR_METHOD}} does — that's my answer.
+> It's not [the obvious framing]. It's [the real thing it does, framed
+> around the stakes your audience cares about].
+>
+> *(Example shape: lead with numbers that signal scale, then reframe
+> what the tool actually does around a human outcome.)*
 
 **High-performing pattern (framework + personal):**
 > The mistake most PMs make when rolling out AI tools:
@@ -128,11 +146,11 @@ She is not the hype voice. She is the person who has already tried it, broken so
 - **Who they are:** Data engineers, BAs, PMs, enterprise architects, tech-adjacent leaders
 - **What they want:** Practical insight, validation that their struggles are real, career navigation
 - **What they fear:** Being left behind by AI, not being "technical enough," not advancing
-- **Why they follow {{YOUR_NAME}}:** She's doing the work they're trying to do, and she explains it honestly
+- **Why they follow {{YOUR_NAME}}:** They're doing the work the audience is trying to do, and they explain it honestly
 
 ### Instagram Primary Audience
 - **Name:** Aspiring professional / early-career navigator
 - **Who they are:** Students, early-career tech professionals, immigrants in STEM, AI curious
 - **What they want:** Accessible AI education, proof that people like them make it
 - **What they fear:** Not knowing enough, not belonging, not being taken seriously
-- **Why they follow {{YOUR_NAME}}:** She's a few steps ahead and doesn't pretend the path was easy
+- **Why they follow {{YOUR_NAME}}:** They're a few steps ahead and don't pretend the path was easy

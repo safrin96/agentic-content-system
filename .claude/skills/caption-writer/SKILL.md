@@ -81,7 +81,7 @@ The sentence worth screenshotting.
 ```
 
 ### LinkedIn Hook Formulas
-- Number-led: "14 departments. 500M rows. One model." (then line break)
+- Number-led: "[scale number]. [unit or scope]. [outcome]." (then line break)
 - Honest admission: "I got this wrong for two years."
 - Reframe: "Everyone calls it a soft skill."
 - Gap/curiosity: "The thing no one tells you about [X]."
@@ -146,14 +146,20 @@ Mobile-first line lengths.
 
 ### Hashtag Strategy
 **Niche (low volume, high relevance — always include 3–4):**
-#PowerBI #dataanalytics #ssastabular #businessintelligence #dataengineer
-#tpmlife #programmanager #immigrantintech #womenindataanalytics
+Populate with {{YOUR_NICHE}}-specific tags: tool names, domain terms,
+identity markers specific to the audience you're talking to.
+Example shape: #[tool] #[domain] #[methodology] #[identity]
 
 **Mid-tier (medium volume — include 3–4):**
-#womenintech #datascience #techcareer #AItools #learndata
+Broader niche tags: industry, career track, general tool category.
+Example shape: #[industry] #[career-track] #[tool-category]
 
 **Broad (high volume — include 2–3):**
-#tech #career #AI #data #analytics
+General-reach tags: top-level category terms.
+Example shape: #tech #career #ai #data
+
+*(Customize the hashtag pool during personalization. Ban any tag
+that's so generic it pulls non-niche traffic.)*
 
 ---
 

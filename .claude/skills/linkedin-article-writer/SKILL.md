@@ -64,25 +64,25 @@ it came from the same writer.
 ## ARTICLE TYPES BY PILLAR
 
 ### Pillar 1 — Technical Deep Dive
-*Example: "Why your Power BI model is slow — and it's not the visuals"*
+*Example shape: "Why your [system/tool] [problem] — and it's not [obvious cause]"*
 - Structure: Problem → Common wrong answer → Real cause → Solution framework
-- Include: specific technical detail that proves she's done this
+- Include: specific technical detail that proves they've done this
 - Tone: Practitioner talking to practitioner. No condescension.
 
 ### Pillar 2 — Data-Driven Industry Analysis
-*Example: "I analyzed 300 TPM job postings. Here's what the data actually says."*
+*Example shape: "I analyzed [N] [data points]. Here's what the data actually says."*
 - Structure: What I did → What I found → What it means → What to do about it
-- Include: methodology note (how she gathered the data), key findings with numbers
+- Include: methodology note (how they gathered the data), key findings with numbers
 - Tone: Analyst presenting findings. Confident, specific, honest about limitations.
 
 ### Pillar 3 — Personal Essay
-*Example: "The $300 test that cost more than money"*
+*Example shape: "The [specific cost] that cost more than [what it was labeled as]"*
 - Structure: Scene → Stakes → Turn → Insight
 - Include: at least one moment of real vulnerability or cost
 - Tone: Personal essay. First person. Present tense for the story beats.
 
 ### Pillar 4 — Tool Analysis
-*Example: "Six months using Claude for enterprise work — what I'd tell my team"*
+*Example shape: "Six months using [tool] for [specific work] — what I'd tell my team"*
 - Structure: Context → What I tried → What worked → What didn't → Who this is for
 - Include: specific use case details, honest limitations, a "not for everyone" caveat
 - Tone: Honest reviewer. Not a sales pitch. Not a takedown.
@@ -117,7 +117,7 @@ LinkedIn publish type: [Article / Newsletter]
 
 EDITOR NOTES:
 → [Any decisions made that {{YOUR_NAME}} might want to override]
-→ [Any section that needs her specific input or a real example]
+→ [Any section that needs their specific input or a real example]
 → [Suggested featured image concept]
 ```
 

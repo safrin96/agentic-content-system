@@ -71,7 +71,7 @@ One thing I didn't fit in the post:
 ```
 I'll start:
 
-[{{YOUR_NAME}}'s own answer to the question she asked in the post CTA]
+[{{YOUR_NAME}}'s own answer to the question they asked in the post CTA]
 
 What's your take? ↓
 ```
