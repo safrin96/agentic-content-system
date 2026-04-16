@@ -1,0 +1,49 @@
+# ============================================================
+# .gitignore — Agentic Content System
+# ============================================================
+
+# Generated content — never commit outputs
+output/
+logs/
+
+# Personal vault contents — stays local
+# (INDEX.md is committed as a template; actual assets are not)
+vault/posts/linkedin/*.txt
+vault/posts/instagram/*.txt
+vault/references/pdfs/*.pdf
+vault/references/articles/*.md
+vault/media/photos/
+vault/media/videos/
+vault/research/job-analyses/*.md
+vault/research/competitor-snapshots/*.md
+vault/research/trend-reports/*.md
+
+# MCP settings (may contain tokens)
+.claude/settings.json
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Shell backup files created during personalize.sh
+*.sh.bak
+*.md.bak
+
+# Node (if anyone runs npm in the project)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
