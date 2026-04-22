@@ -25,12 +25,16 @@ an in-house Senior Content Strategist and Editor for your brand.
 
 **What you get out of the box:**
 - 1 master `CLAUDE.md` with a Senior Content Strategist role definition
-- 16 specialized skills (research, writing, hooks, thumbnails, fact-check, and more)
+- 19 specialized skills (research, writing, hooks, thumbnails, fact-check,
+  vault sync, analytics sync, tool-demo guides, and more)
+- 2 slash commands: `/run-content-engine` (biweekly) and `/create-post` (impromptu)
 - 5 reference files (pillars, voice rules, platform specs, brand guidelines, examples)
 - A Knowledge Vault folder structure for posts, photos, PDFs, research
 - A content deduplicator that reads your full archive before writing anything new
 - 4 shell scripts (biweekly runner, scheduler setup, test run, remove)
+  plus a Python vault scanner that feeds the vault-sync skill
 - A `personalize.sh` setup script that configures everything for your brand
+- Optional: Windsor.ai integration for auto-syncing LinkedIn + Instagram metrics
 
 ---
 
@@ -90,29 +94,34 @@ your-content-system/
 │   └── brand-guidelines.md           ← Visual identity, audience personas
 ├── .claude/
 │   ├── commands/
-│   │   └── run-content-engine.md     ← Biweekly engine orchestrator
-│   └── skills/                       ← 16 specialized skill files
-│       ├── content-research/
-│       ├── content-deduplicator/
-│       ├── instagram-competitot-research/
-│       ├── presentation-content/
-│       ├── linkedin-article-writer/
-│       ├── instagram-reel-script/
-│       ├── caption-writer/
-│       ├── reference-verifier/
-│       ├── pinned-comment-writer/
-│       ├── hook-cta-writer/
-│       ├── thumbnail-brief/
-│       ├── stock-photo-finder/
-│       ├── content-project-manager/
+│   │   ├── run-content-engine.md     ← Biweekly engine orchestrator
+│   │   └── create-post.md            ← Impromptu single-post command
+│   └── skills/                       ← 19 specialized skill files
+│       ├── analytics-sync/           ← (optional) Windsor.ai metrics → vault
 │       ├── brand-voice-manager/
-│       └── content-reviewer/
+│       ├── caption-writer/
+│       ├── content-deduplicator/
+│       ├── content-project-manager/
+│       ├── content-research/
+│       ├── content-reviewer/
+│       ├── demo-guide-writer/        ← Tool-demo blueprint for Reels
+│       ├── hook-cta-writer/
+│       ├── instagram-competitor-research/
+│       ├── instagram-reel-script/
+│       ├── linkedin-article-writer/
+│       ├── pinned-comment-writer/
+│       ├── presentation-content/
+│       ├── reference-verifier/
+│       ├── stock-photo-finder/
+│       ├── thumbnail-brief/
+│       ├── vault-sync/               ← Auto-classifies new vault files
 │       └── visual-competitor-analysis/
 ├── scripts/
 │   ├── run-biweekly.sh               ← The engine (biweekly gate built in)
 │   ├── setup-scheduler.sh            ← Installs the cron job
 │   ├── remove-scheduler.sh           ← Removes the cron job
-│   └── test-run.sh                   ← Manual test run (--dry-run supported)
+│   ├── test-run.sh                   ← Manual test run (--dry-run supported)
+│   └── vault-scan.py                 ← Scans vault, writes SYNC-MANIFEST.md
 └── output/                           ← Auto-created. Never committed to git.
 ```
 
@@ -215,7 +224,7 @@ MIT — use it, fork it, build on it.
 
 ## Built By
 
-Originally built for a Senior IT Program Manager and BI Analyst
+Originally built for a Technical Program Manager and BI Analyst
 building a personal brand in enterprise AI adoption, data analytics,
 and immigrant-in-tech storytelling.
 

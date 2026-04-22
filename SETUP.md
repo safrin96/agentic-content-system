@@ -194,6 +194,44 @@ output/
 
 ---
 
+## OPTIONAL: ANALYTICS SYNC (WINDSOR.AI)
+
+The `analytics-sync` skill is the only skill in this system that depends
+on an external service. It pulls LinkedIn + Instagram performance data
+from your own accounts and automatically saves top-performing posts
+into the vault before each run, so future outputs learn from what
+actually worked.
+
+**You do not need this to run the system.** If Windsor.ai is not
+configured, the skill exits cleanly and the engine proceeds to
+vault-sync and STEP 1 without blocking.
+
+### To enable it
+
+1. Sign up at https://windsor.ai and connect your LinkedIn Page
+   and Instagram Business account as organic data sources.
+2. Get your Windsor.ai MCP server URL from their dashboard.
+3. Add it to `.claude/settings.json`:
+   ```json
+   {
+     "mcpServers": {
+       "windsor": {
+         "type": "url",
+         "url": "https://your-windsor-mcp-url"
+       }
+     }
+   }
+   ```
+4. The next engine run will detect the connectors and auto-sync.
+   Check the engine-run-report for the `ANALYTICS SYNC REPORT` block
+   to confirm it ran.
+
+### To disable it
+Remove the `windsor` entry from `.claude/settings.json`. The skill
+will log "Analytics sync skipped" and move on.
+
+---
+
 ## TROUBLESHOOTING
 
 **"claude: command not found" in cron**
