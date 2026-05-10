@@ -9,7 +9,7 @@ for LinkedIn and Instagram.
 
 ## What This Is
 
-This is not a prompt. It is a **system** — a set of roles, skills,
+This is not a prompt. It is a **system**. A set of roles, skills,
 reference files, and automation scripts that turns Claude Code into
 an in-house Senior Content Strategist and Editor for your brand.
 
